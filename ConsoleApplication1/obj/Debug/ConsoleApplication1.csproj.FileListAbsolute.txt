@@ -1,0 +1,12 @@
+E:\robocopy\ConsoleApplication1\ConsoleApplication1\bin\Debug\Copy.exe.config
+E:\robocopy\ConsoleApplication1\ConsoleApplication1\bin\Debug\Copy.exe
+E:\robocopy\ConsoleApplication1\ConsoleApplication1\bin\Debug\Copy.pdb
+E:\robocopy\ConsoleApplication1\ConsoleApplication1\obj\Debug\Copy.exe
+E:\robocopy\ConsoleApplication1\ConsoleApplication1\obj\Debug\Copy.pdb
+E:\robocopy\copyphotoproject\ConsoleApplication1\bin\Debug\copyphoto.exe.config
+E:\robocopy\copyphotoproject\ConsoleApplication1\bin\Debug\copyphoto.exe
+E:\robocopy\copyphotoproject\ConsoleApplication1\bin\Debug\copyphoto.pdb
+E:\robocopy\copyphotoproject\ConsoleApplication1\obj\Debug\copyphoto.exe
+E:\robocopy\copyphotoproject\ConsoleApplication1\obj\Debug\copyphoto.pdb
+E:\robocopy\copyphotoproject\ConsoleApplication1\obj\Debug\copyphoto.Properties.Resources.resources
+E:\robocopy\copyphotoproject\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
